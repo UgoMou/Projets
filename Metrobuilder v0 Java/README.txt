@@ -1,3 +1,9 @@
 Authors :
 - Ugo Moutymbo (github UgoMou)
-- Mathuran Kandeepan (github mathurankandeepan)
+- Paulius 
+- Layaida Radja
+- Nidhal Wers
+- Nahidath 
+
+Concept :
+	Create your own metro
